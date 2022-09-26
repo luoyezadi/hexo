@@ -28,6 +28,7 @@ stages:
           - hexo version
           - npm install
           - npm install hexo-deployer-git --save
+          - npm i hexo-generator-json-content --save
           - git config --global user.email "451447840@qq.com"
           - git config --global user.name "luoyezadi"
           - npm run config deploy.repo $REPO
