@@ -135,3 +135,5 @@ variables:
 ![../../images/image-20220926172613721.png](/images/image-20220926172613721.png)
 
 ![image-20220926192308396](/images/image-20220926192308396.png)
+
+![image-20220926193812122](../HEXO/HEXO初始化/image-20220926193812122.png)
