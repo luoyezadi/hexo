@@ -122,5 +122,16 @@ variables:
 
 ## 7.实例
 
-![image-20220926172613721](HEXO初始化/image-20220926172613721.png)
 
+
+
+{% asset_path slug %}
+
+
+
+{% asset_img image-20220926172613721.png This is an example image %}
+
+
+![../../images/image-20220926172613721.png](/images/image-20220926172613721.png)
+
+![image-20220926192308396](/images/image-20220926192308396.png)
