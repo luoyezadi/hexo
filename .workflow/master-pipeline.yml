@@ -7,6 +7,9 @@ triggers:
     branches:
       include:
         - master
+    commitMessages:
+      include:
+        - .*deploy.*
 variables:
   global:
     - REPO
