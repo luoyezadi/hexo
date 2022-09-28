@@ -13,7 +13,9 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+#url: http://yoursite.com
+#root: /
+url: https://luoyezadi.gitee.io
 root: /
 permalink: :title/:year/:month/:day/
 permalink_defaults:
